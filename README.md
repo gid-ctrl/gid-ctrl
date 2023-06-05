@@ -8,9 +8,6 @@ Junior Software Developer
 * ✉️  You can contact me at [gideonusenbor@yahoo.co.uk](mailto:gideonusenbor@yahoo.co.uk)
 * 🧠  I'm learning Python
 
-<a href="https://www.github.com/gid-ctrl" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gid-ctrl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
