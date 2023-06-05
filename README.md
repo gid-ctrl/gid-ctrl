@@ -6,7 +6,7 @@ Junior Software Developer
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [gideonusenbor@yahoo.co.uk](mailto:gideonusenbor@yahoo.co.uk)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Full Stack Development
 
 ### Skills
 
