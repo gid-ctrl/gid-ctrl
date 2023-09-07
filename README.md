@@ -5,7 +5,7 @@ Junior Software Developer
 -------------------------
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [gideonusenbor@yahoo.co.uk](mailto:giddyu.gu@gmail.com)
+* ✉️  You can contact me at [giddyu.gu@gmail.com](mailto:giddyu.gu@gmail.com)
 * 🧠  I'm a Full Stack Software Development
 
 ### Skills
