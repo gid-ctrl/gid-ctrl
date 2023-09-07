@@ -1,6 +1,8 @@
 Hi 👋 My name is Gideon Usenbor
 ===============================
 
+
+
 Full Stack Software Developer
 -----------------------------
 
@@ -31,7 +33,5 @@ Enthusiastic junior software developer with a background in Law looking to launc
 <a href="http://www.github.com/gid-ctrl"><img src="https://github-readme-stats.vercel.app/api?username=gid-ctrl&show_icons=true&hide=issues,&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="gid-ctrl's GitHub stats" /></a>
 
 <a href="http://www.github.com/gid-ctrl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gid-ctrl&stroke=ffffff&background=1e3a8a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/gid-ctrl"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gid-ctrl&bg_color=1e3a8a&color=ffffff&line=0891b2&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/gid-ctrl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gid-ctrl&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
