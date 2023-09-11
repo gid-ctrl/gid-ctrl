@@ -6,7 +6,14 @@ Hi 👋 My name is Gideon Usenbor
 Full Stack Software Developer
 -----------------------------
 
-Enthusiastic junior software developer with a background in Law looking to launch a career in Tech. Always had an interest and desire in computing, as shown by achieving distinctions in GCSE and A-Level results. Driven to fulfill goals and aspirations, I pursued qualifications in software development. Skilled in various programming languages and proficient in front-end and back-end development. Passionate about staying at the forefront of technological advancements and tackling challenges. Proven track record of delivering impactful projects. Excited to continuously hone skills and contribute effectively as a junior developer in the dynamic tech industry.
+Enthusiastic junior software developer with a background in Law looking to
+launch a career in Tech. Always had an interest and desire in computing.
+Driven to fulfill goals and aspirations, I pursued qualifications in software
+development by getting certification Full Time Software Developer. Skilled in
+various programming languages and proficient in front-end and back-end
+development. Passionate about staying at the forefront of technological
+advancements and tackling challenges. Excited to continuously hone skills
+and contribute effectively as a junior developer in the dynamic tech industry.
 
 * 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [Gideon Usenbor Portfolio](http://j)
