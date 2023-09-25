@@ -16,7 +16,7 @@ advancements and tackling challenges. Excited to continuously hone skills
 and contribute effectively as a junior developer in the dynamic tech industry.
 
 * 🌍  I'm based in London, United Kingdom
-* 🖥️  See my portfolio at [Gideon Usenbor Portfolio](http://j)
+* 🖥️  See my portfolio at [Gideon Usenbor Portfolio](https://gideon-usenbor-portfolio.vercel.app/)
 * ✉️  You can contact me at [giddyu.gu@gmail.com](mailto:giddyu.gu@gmail.com)
 * 🧠  I'm learning Python
 * ⚡  I love being active, by either going to the gym or playing basketball, when Im not facing my screen coding
