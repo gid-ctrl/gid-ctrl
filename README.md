@@ -6,7 +6,7 @@ Hi 👋 My name is Gideon Usenbor
 Full Stack Software Developer
 -----------------------------
 
-Enthusiastic junior software developer with a background in Law looking to
+Enthusiastic junior software developer looking to
 launch a career in Tech. Always had an interest and desire in computing.
 Driven to fulfill goals and aspirations, I pursued qualifications in software
 development by getting certification Full Time Software Developer. Skilled in
